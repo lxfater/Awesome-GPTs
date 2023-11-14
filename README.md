@@ -3,7 +3,7 @@
 Awesome-GPTs
 </h1>
 <p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
+  <img width="350" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
 </p>
 </div>
 
