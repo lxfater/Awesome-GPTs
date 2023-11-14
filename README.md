@@ -1,12 +1,15 @@
 # Awesome-GPTs
 Awesome-GPTs
-## best gpts finder
+## Best gpts finder
+
 [GPTs查找](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
+[Chat Now](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
+
 real-time search, and open-source
 
 <div align="center">
   <p align="center">
-    <p align="center">322 gpts for now</p>
+    <p align="center">322 GTPS for now</p>
   </p>
 </div>
 
