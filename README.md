@@ -5,6 +5,9 @@ Awesome-GPTs
 <p align="center">
   <img width="350" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
 </p>
+<p align="center">
+    800 GPTs and 10 categories."
+</p>
 </div>
 
 ## Best GPTs Finder
