@@ -8,7 +8,7 @@ Awesome-GPTs
 <p align="center">
     800 GPTs and 10 categories."
 </p>
-  <p>
+  <p align="center">
       <a href="https://github.com/lxfater/Awesome-GPTs">English</a> | <a href="https://github.com/lxfater/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
   </p>
 </div>
