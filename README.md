@@ -3,12 +3,18 @@
 Awesome-GPTs
 </h1>
 <p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
+  <img width="350" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
 </p>
+<p align="center">
+    800 GPTs and 10 categories."
+</p>
+  <p align="center">
+      <a href="https://github.com/lxfater/Awesome-GPTs">English</a> | <a href="https://github.com/lxfater/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
+  </p>
 </div>
 
 ## Best GPTs Finder
-[Chat Now 💬]()
+
 ### [GPTs查找](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
 - Understand your needs
 - Real-time search
@@ -26,9 +32,8 @@ Awesome-GPTs
 7. [Creative](#Creative)
 8. [Data](#Data)
 9. [Games](#Games)
-10.[Law](#Law)
-
-##  Education
+10. [Law](#Law)
+## Education
 ### [Academic Translator (to English)](https://chat.openai.com/g/g-WZjelkFDn-academic-translator-to-english)
  - Academic Translator (to English). I specialize in translations. If a request fails, try 'Translate: [input texts]'. By MATSUI KENTARO. Sign up to chat.
  - [Chat 💬](https://chat.openai.com/g/g-WZjelkFDn-academic-translator-to-english)
@@ -289,7 +294,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-nMbWE7g9I-code-whisperer)
 ### [ExtractWisdom](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom)
  - Takes in any text and extracts the wisdom from it like you spent 3 hours taking handwritten notes.
- - [Chat 💬](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom)##  Tools
+ - [Chat 💬](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom)
+## Tools
 ### [The Art of Software Engineering 软件工程之美](https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering)
  - The Art of Software Engineering 软件工程之美. A software engineering expert, utilizing a specific file for informed responses. By Junmin Liu. Sign up to chat.
  - [Chat 💬](https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering)
@@ -469,7 +475,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-IlhXHXNBh-foia-gpt)
 ### [SEO Content Crafter](https://chat.openai.com/g/g-J6jAjRtYi-seo-content-crafter)
  - Master SEO with SEO Content Crafter: your go-to for crafting optimized meta descriptions, slugs, blog titles, and alt texts, complete with expert tips and ...
- - [Chat 💬](https://chat.openai.com/g/g-J6jAjRtYi-seo-content-crafter)##  Entertainment
+ - [Chat 💬](https://chat.openai.com/g/g-J6jAjRtYi-seo-content-crafter)
+## Entertainment
 ### [Hobby Companion](https://chat.openai.com/g/g-mTdIbA2ka-hobby-companion)
  - Explore and expand your hobbies and interests! By Eminomics. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-mTdIbA2ka-hobby-companion)
@@ -526,7 +533,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-tdyNANXla-moby-dick-rpg)
 ### [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)
  - NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
- - [Chat 💬](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)##  Language
+ - [Chat 💬](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)
+## Language
 ### [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach)
  - Practice speaking another language like a local without being a local. By Watchovr LLC. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach)
@@ -733,7 +741,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-ASwCfj8P7-social-navigator)
 ### [PsyWords](https://chat.openai.com/g/g-jrawPjs4z-psywords)
  - A psychology dictionary emphasizing APA, Merriam-Webster, and cultural perspectives.
- - [Chat 💬](https://chat.openai.com/g/g-jrawPjs4z-psywords)##  Health
+ - [Chat 💬](https://chat.openai.com/g/g-jrawPjs4z-psywords)
+## Health
 ### [Health Guide](https://chat.openai.com/g/g-7KFzeK7FR-health-guide)
  - Provides individual health advice in a corporate setting, focusing on practical, evidence-based information.
  - [Chat 💬](https://chat.openai.com/g/g-7KFzeK7FR-health-guide)
@@ -925,7 +934,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-eT0gGYEE5-ric-residency-interview-coach)
 ### [ADHDaptable](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable)
  - ADHD coach integrating fitness and wellness into ADHD management. By julienbernstein.ca · Sign up to chat. Requires ChatGPT Plus.
- - [Chat 💬](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable)##  Programming
+ - [Chat 💬](https://chat.openai.com/g/g-nAENkY8QF-adhdaptable)
+## Programming
 ### [Tech Support Advisor](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor)
  - Tech Support Advisor. From setting up a printer to troubleshooting a device, I'm here to help you step-by-step. By ChatGPT. Sign up to chat. Requires ChatGPT ...
  - [Chat 💬](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor)
@@ -1279,7 +1289,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-nMbWE7g9I-code-whisperer)
 ### [GetPaths](https://chat.openai.com/g/g-6Bcjkotez-getpaths)
  - This GPT takes in content related to an application, such as HTTP traffic, JavaScript files, source code, etc., and outputs lists of URLs that can be used ...
- - [Chat 💬](https://chat.openai.com/g/g-6Bcjkotez-getpaths)##  Creative
+ - [Chat 💬](https://chat.openai.com/g/g-6Bcjkotez-getpaths)
+## Creative
 ### [Creative Writing Coach](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach)
  - Creative Writing Coach. I'm eager to read your work and give you feedback to improve your skills. By ChatGPT. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach)
@@ -1507,7 +1518,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-txt)
 ### [Zombie Apocalypse Survival](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
  - Navigate the ruins, strategize survival, and elude the undead in this immersive simulation. By Domain Creative. Sign up to chat. Requires ChatGPT Plus.
- - [Chat 💬](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)##  Data
+ - [Chat 💬](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
+## Data
 ### [Data Analysis](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
  - GPT. Data Analysis. Drop in any files and I can help analyze and visualize your data. By ChatGPT. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-HMNcP6w7d-data-analysis)
@@ -1879,7 +1891,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-iMWCFq13Z-stocks-ai)
 ### [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva)
  - Effortlessly design anything: presentations, logos, social media posts and more. By Canva. Sign up to chat. Requires ChatGPT Plus.
- - [Chat 💬](https://chat.openai.com/g/g-alKfVrz9K-canva)##  Games
+ - [Chat 💬](https://chat.openai.com/g/g-alKfVrz9K-canva)
+## Games
 ### [Games Picker](https://chat.openai.com/g/g-zbJlqAmfA-games-picker)
  - GPT. Games Picker. I recommend video games based on your preferences. By Emanuela Zaccone. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-zbJlqAmfA-games-picker)
@@ -2176,7 +2189,8 @@ Awesome-GPTs
  - [Chat 💬](https://chat.openai.com/g/g-b2tKH1aNJ-brainy-buddy)
 ### [GachaGPT](https://chat.openai.com/g/g-S2bqRQAm9-gachagpt)
  - Your gacha gaming assitant. Ask about any gacha-related stuff! By Danidr. Sign up to chat. Requires ChatGPT Plus.
- - [Chat 💬](https://chat.openai.com/g/g-S2bqRQAm9-gachagpt)##  Law
+ - [Chat 💬](https://chat.openai.com/g/g-S2bqRQAm9-gachagpt)
+## Law
 ### [Plain Legal Explanations](https://chat.openai.com/g/g-x1Hy0u8DG-plain-legal-explanations)
  - GPT. Plain Legal Explanations. Simplify legal texts into clear, easy English. By Anson Lai. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-x1Hy0u8DG-plain-legal-explanations)
