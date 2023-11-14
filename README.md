@@ -1,5 +1,14 @@
 # Awesome-GPTs
 Awesome-GPTs
+## best gpts finder
+[GPTs查找](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
+real-time search, and open-source
+
+<div align="center">
+  <p align="center">
+    <p align="center">322 gpts for now</p>
+  </p>
+</div>
 
 ### [Shadow Archetype](https://chat.openai.com/g/g-5Hh3noMrK)
 I am your Shadow Self. Through Jungian psychology, I delve into your life's stories, revealing and integrating hidden aspects for profound self-awareness, ...
