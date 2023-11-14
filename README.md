@@ -17,7 +17,7 @@ Awesome-GPTs
 
 [Chat 💬](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
 ## 📚 Table of Contents
-1. [Education](#Education)
+1. [Education](##Education)
 2. [Tools](Ttools)
 3. [Entertainment](#Entertainment)
 4. [Language](#Language)
