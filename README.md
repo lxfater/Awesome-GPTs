@@ -6,6 +6,7 @@ Awesome-GPTs
   <img width="650" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
 </p>
 </div>
+
 ## Best GPTs Finder
 
 [GPTs查找](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
@@ -16,7 +17,10 @@ Awesome-GPTs
 - Real-time search
 - Open-source
 
-## 322 GTPS For Now
+## 322 GTPS For Now，Categories coming soon.
+### [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
+ - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
+ - [Chat 💬](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
 
 ### [Shadow Archetype](https://chat.openai.com/g/g-5Hh3noMrK)
  - I am your Shadow Self. Through Jungian psychology, I delve into your life's stories, revealing and integrating hidden aspects for profound self-awareness, ...
