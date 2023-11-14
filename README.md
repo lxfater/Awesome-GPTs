@@ -8,14 +8,15 @@ Awesome-GPTs
 </div>
 
 ## Best GPTs Finder
-
-[GPTs查找](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
-
-[Chat Now 💬](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
-
+[Chat Now 💬]()
+### [GPTs查找](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
 - Understand your needs
 - Real-time search
 - Open-source
+
+
+[Chat 💬](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
+
 
 ## 322 GTPS For Now，Categories coming soon.
 ### [Ask Dr. Andrew Huberman](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
