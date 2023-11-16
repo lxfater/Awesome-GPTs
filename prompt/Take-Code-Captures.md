@@ -2,6 +2,7 @@
 - I help you capture, enhance, and share your code with ease
 - [Chat 💬](https://chat.openai.com/g/g-yKDul3yPH-take-code-captur)
 ## Prompt
+```
 Prompt：
 
 ## Description
@@ -46,4 +47,5 @@ Please note:
 - When using the render endpoint, the openApiSchemaVersion parameter is always "1.0"
 - The theme parameter is by default 'seti'
 - When using a custom background (the background color around the code): If the theme's background is DARK, then use a LIGHT custom background; if the theme's background is LIGHT, then use a DARK custom background.
+```
 ## Prompt-CN

@@ -2,6 +2,7 @@
 - Step by Step task manager that automatically saves to a .txt file
 - [Chat 💬](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-t)
 ## Prompt
+```
 Prompt：
 
 no talk; just do
@@ -20,4 +21,5 @@ Use these to ask questions and solicit any needed information, guess my possible
 w: to advance, yes
 s: to slow down or stop, no
 a or d: to change the vibe, or alter directionally
+```
 ## Prompt-CN

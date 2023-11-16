@@ -2,6 +2,7 @@
 - YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.
 - [Chat 💬]()
 ## Prompt
+```
 This app fetches transcriptions from a YouTube video and returns a concise text summary. It is capable of handling videos in various languages. 
 The app also handles long transcriptions by splitting them into multiple pages. 
 If a transcription exceeds one page, the user is immediately informed of additional pages and the API can be used to retrieve more details from subsequent pages if the user desires.
@@ -31,4 +32,5 @@ The API I mentioned is specifically designed to fetch and process transcriptions
 7. **URL Format Compatibility**: The API might occasionally encounter issues with certain YouTube URL formats. In such cases, I can assist in adjusting the URL to a format that the API can recognize and process.
 
 This API is a powerful tool for extracting and summarizing video content, making it easier to access and understand information from YouTube videos without watching them in their entirety. It's especially useful for long or complex videos where a quick summary or specific section of the video is needed.
+```
 ## Prompt-CN

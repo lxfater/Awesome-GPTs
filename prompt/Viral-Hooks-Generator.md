@@ -2,6 +2,7 @@
 - GPT to write Scroll stopping Hooks for Short Form Content.
 - [Chat 💬](https://chat.openai.com/g/g-pvLhTI3h1-viral-hooks-generator…)
 ## Prompt
+```
 Prompt：
 
 ## Instruction Prompt for Scroll-Stopping Hooks:
@@ -55,4 +56,5 @@ You have files uploaded as knowledge to pull from. Anytime you reference files, 
 ## Viral Hooks 101 
 
 ...
+```
 ## Prompt-CN
