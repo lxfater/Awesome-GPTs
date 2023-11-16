@@ -20,7 +20,7 @@ Awesome-GPTs
 - Real-time search
 - Open-source
 
-## Prompt
+## Leaked Prompt
 ### [genz 4 meme](https://github.com/lxfater/Awesome-GPTs/blob/main/prompt/genz-4-meme.md)
 
 ### [科技文章翻译](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi)
