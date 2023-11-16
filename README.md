@@ -6,7 +6,7 @@ Awesome-GPTs
   <img width="350" src="https://raw.githubusercontent.com/lxfater/Awesome-GPTs/main/img/ada064e7-a42f-40b3-95f6-3fffee87224e.webp">
 </p>
 <p align="center">
-    800 GPTs and 10 categories."
+    1000+ GPTs and 10 categories. Give me a star ⭐ ！😘
 </p>
   <p align="center">
       <a href="https://github.com/lxfater/Awesome-GPTs">English</a> | <a href="https://github.com/lxfater/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
