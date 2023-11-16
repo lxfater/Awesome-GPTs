@@ -1,6 +1,6 @@
 ## [YT Summarizer]()
-    - YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.
-    - [Chat 💬]()
+- YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.
+- [Chat 💬]()
 ## Prompt
 This app fetches transcriptions from a YouTube video and returns a concise text summary. It is capable of handling videos in various languages. 
 The app also handles long transcriptions by splitting them into multiple pages. 

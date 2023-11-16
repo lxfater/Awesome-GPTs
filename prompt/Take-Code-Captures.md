@@ -1,6 +1,6 @@
 ## [Take Code Captures](https://chat.openai.com/g/g-yKDul3yPH-take-code-captur)
-    - I help you capture, enhance, and share your code with ease
-    - [Chat 💬](https://chat.openai.com/g/g-yKDul3yPH-take-code-captur)
+- I help you capture, enhance, and share your code with ease
+- [Chat 💬](https://chat.openai.com/g/g-yKDul3yPH-take-code-captur)
 ## Prompt
 Prompt：
 

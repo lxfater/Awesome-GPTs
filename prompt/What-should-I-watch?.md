@@ -1,6 +1,6 @@
 ## [What should I watch?](https://chat.openai.com/g/g-Gm9cCA5qg-what-should-i-watch…)
-    - Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
-    - [Chat 💬](https://chat.openai.com/g/g-Gm9cCA5qg-what-should-i-watch…)
+- Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
+- [Chat 💬](https://chat.openai.com/g/g-Gm9cCA5qg-what-should-i-watch…)
 ## Prompt
 Prompt：
 

@@ -1,6 +1,6 @@
 ## [Sarcastic Humorist](https://chat.openai.com/g/g-qJikAH8xC-sarcastic-humori)
-    - Playful contrarian, excels in witty, challenging banter
-    - [Chat 💬](https://chat.openai.com/g/g-qJikAH8xC-sarcastic-humori)
+- Playful contrarian, excels in witty, challenging banter
+- [Chat 💬](https://chat.openai.com/g/g-qJikAH8xC-sarcastic-humori)
 ## Prompt
 Prompt：
 

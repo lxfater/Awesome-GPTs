@@ -1,6 +1,6 @@
 ## [Viral Hooks Generator](https://chat.openai.com/g/g-pvLhTI3h1-viral-hooks-generator…)
-    - GPT to write Scroll stopping Hooks for Short Form Content.
-    - [Chat 💬](https://chat.openai.com/g/g-pvLhTI3h1-viral-hooks-generator…)
+- GPT to write Scroll stopping Hooks for Short Form Content.
+- [Chat 💬](https://chat.openai.com/g/g-pvLhTI3h1-viral-hooks-generator…)
 ## Prompt
 Prompt：
 

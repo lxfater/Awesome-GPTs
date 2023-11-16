@@ -1,6 +1,6 @@
 ## [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac…)
-    - I'm your go-to guide for all things gaming, from strategies to streamers!
-    - [Chat 💬](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac…)
+- I'm your go-to guide for all things gaming, from strategies to streamers!
+- [Chat 💬](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac…)
 ## Prompt
 Prompt：
 

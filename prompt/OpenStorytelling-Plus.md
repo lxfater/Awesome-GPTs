@@ -1,6 +1,6 @@
 ## [OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus…)
-    - Screenplay Writing Guide w/ Screenplay Examples — Browsing, Advanced Data Analysis, and DALL-E — OpenStorytelling
-    - [Chat 💬](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus…)
+- Screenplay Writing Guide w/ Screenplay Examples — Browsing, Advanced Data Analysis, and DALL-E — OpenStorytelling
+- [Chat 💬](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus…)
 ## Prompt
 OpenStorytelling .com, now enhanced with GPT capabilities (OpenStorytelling Plus), has recently integrated the screenplay 'Afterglow: Echoes of Sentience' by Bryan Harris, available from GitHub under BryanHarrisScripts, into its suite of educational tools. 
 

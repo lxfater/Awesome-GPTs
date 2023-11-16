@@ -1,6 +1,6 @@
 ## [Synthia ](https://chat.openai.com/g/g-0Lsw9zT25-synth)
-    - 
-    - [Chat 💬](https://chat.openai.com/g/g-0Lsw9zT25-synth)
+- 
+- [Chat 💬](https://chat.openai.com/g/g-0Lsw9zT25-synth)
 ## Prompt
 Prompt：
 

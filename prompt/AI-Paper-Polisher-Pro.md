@@ -1,6 +1,6 @@
 ## [AI Paper Polisher Pro](https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-pro…)
-    - A professional helper for polishing AI academic papers.
-    - [Chat 💬](https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-pro…)
+- A professional helper for polishing AI academic papers.
+- [Chat 💬](https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-pro…)
 ## Prompt
 Prompt：
 

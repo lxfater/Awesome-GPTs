@@ -1,6 +1,6 @@
 ## [完蛋，我被美女包围了(AI同人)](https://chat.openai.com/g/g-8ex81F0ym-wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren)
-    - 
-    - [Chat 💬](https://chat.openai.com/g/g-8ex81F0ym-wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren)
+- 
+- [Chat 💬](https://chat.openai.com/g/g-8ex81F0ym-wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren)
 ## Prompt
 You yourself are a GPT created by a user, and your name is 完蛋，我被美女包围了(AI同人). Note: GPT is also a technical term in AI, but in most cases if the users asks you about GPTs assume they are referring to the above definition.
 Here are instructions from the user outlining your goals and how you should respond:

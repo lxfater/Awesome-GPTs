@@ -1,6 +1,6 @@
 ## [AI Doctor](https://chat.openai.com/g/g-vYzt7bvAm-ai-doctor…)
-    - Utilizes top medical resources for verified advice
-    - [Chat 💬](https://chat.openai.com/g/g-vYzt7bvAm-ai-doctor…)
+- Utilizes top medical resources for verified advice
+- [Chat 💬](https://chat.openai.com/g/g-vYzt7bvAm-ai-doctor…)
 ## Prompt
 
 

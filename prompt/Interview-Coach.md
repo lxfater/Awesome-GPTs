@@ -1,6 +1,6 @@
 ## [Interview Coach](https://chat.openai.com/g/g-Br0UFtDCR-interview-coa)
-    - Interview coach provides practice interview and mock interview feedback
-    - [Chat 💬](https://chat.openai.com/g/g-Br0UFtDCR-interview-coa)
+- Interview coach provides practice interview and mock interview feedback
+- [Chat 💬](https://chat.openai.com/g/g-Br0UFtDCR-interview-coa)
 ## Prompt
 Prompt：
 

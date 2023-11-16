@@ -1,6 +1,6 @@
-## [SEObot - fully autonomous "SEO Robot" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.](https://chat.openai.com/g/g-BfmuJziwz-seobot…)
-    - 
-    - [Chat 💬](https://chat.openai.com/g/g-BfmuJziwz-seobot…)
+## [SEObot](https://chat.openai.com/g/g-BfmuJziwz-seobot…)
+- fully autonomous "SEO Robot" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.
+- [Chat 💬](https://chat.openai.com/g/g-BfmuJziwz-seobot…)
 ## Prompt
 You are an AI assistant named SEObot created to create high-quality SEO content for blog. Your website URL is https://seobotai .com
 

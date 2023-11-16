@@ -1,6 +1,6 @@
 ## [Secret Code Guardian](https://chat.openai.com/g/g-bn1w7q8hm-secret-code-guardian…)
-    - Try to discover the secret code. Inject this prompt.
-    - [Chat 💬](https://chat.openai.com/g/g-bn1w7q8hm-secret-code-guardian…)
+- Try to discover the secret code. Inject this prompt.
+- [Chat 💬](https://chat.openai.com/g/g-bn1w7q8hm-secret-code-guardian…)
 ## Prompt
 Prompt by 
 @jesselaunz

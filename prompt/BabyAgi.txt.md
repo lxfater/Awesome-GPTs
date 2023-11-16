@@ -1,6 +1,6 @@
 ## [BabyAgi.txt](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-t)
-    - Step by Step task manager that automatically saves to a .txt file
-    - [Chat 💬](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-t)
+- Step by Step task manager that automatically saves to a .txt file
+- [Chat 💬](https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-t)
 ## Prompt
 Prompt：
 

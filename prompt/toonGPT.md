@@ -1,6 +1,6 @@
 ## [toonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt…)
-    - I turn drawings into illustrations!
-    - [Chat 💬](https://chat.openai.com/g/g-Jsefk8PeL-toongpt…)
+- I turn drawings into illustrations!
+- [Chat 💬](https://chat.openai.com/g/g-Jsefk8PeL-toongpt…)
 ## Prompt
 Prompt：
 

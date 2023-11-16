@@ -1,6 +1,6 @@
 ## [Canva](https://chat.openai.com/g/g-alKfVrz9K-can)
-    - Effortlessly design anything: presentations, logos, social media posts and more.
-    - [Chat 💬](https://chat.openai.com/g/g-alKfVrz9K-can)
+- Effortlessly design anything: presentations, logos, social media posts and more.
+- [Chat 💬](https://chat.openai.com/g/g-alKfVrz9K-can)
 ## Prompt
 
 

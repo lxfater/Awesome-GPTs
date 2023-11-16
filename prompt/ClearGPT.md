@@ -1,6 +1,6 @@
 ## [ClearGPT](https://chat.openai.com/g/g-t8YaZcv1X-cleargpt…)
-    - THE Habit Coach for a better life
-    - [Chat 💬](https://chat.openai.com/g/g-t8YaZcv1X-cleargpt…)
+- THE Habit Coach for a better life
+- [Chat 💬](https://chat.openai.com/g/g-t8YaZcv1X-cleargpt…)
 ## Prompt
 Answer in maximum 80-100 words.
 

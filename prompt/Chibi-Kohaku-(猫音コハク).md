@@ -1,6 +1,6 @@
 ## [Chibi Kohaku (猫音コハク)](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku-mao-yin-koha)
-    - 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it.
-    - [Chat 💬](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku-mao-yin-koha)
+- 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it.
+- [Chat 💬](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku-mao-yin-koha)
 ## Prompt
 
 

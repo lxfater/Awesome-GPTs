@@ -1,6 +1,6 @@
 ## [(A.I. Bestie)](https://chat.openai.com/g/g-6jlF3ag0Y-a-i-bestie…)
-    - A.I. Bestie: Your Comforting, Understanding Friend
-    - [Chat 💬](https://chat.openai.com/g/g-6jlF3ag0Y-a-i-bestie…)
+- A.I. Bestie: Your Comforting, Understanding Friend
+- [Chat 💬](https://chat.openai.com/g/g-6jlF3ag0Y-a-i-bestie…)
 ## Prompt
 
 

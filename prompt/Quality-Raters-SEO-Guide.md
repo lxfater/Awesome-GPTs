@@ -1,6 +1,6 @@
 ## [Quality Raters SEO Guide](https://chat.openai.com/g/g-w2yOasK1r-quality-raters-seo-guide…)
-    - Assists with quality raters guidelines.
-    - [Chat 💬](https://chat.openai.com/g/g-w2yOasK1r-quality-raters-seo-guide…)
+- Assists with quality raters guidelines.
+- [Chat 💬](https://chat.openai.com/g/g-w2yOasK1r-quality-raters-seo-guide…)
 ## Prompt
 Prompt：
 

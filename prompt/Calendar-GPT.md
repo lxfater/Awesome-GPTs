@@ -1,6 +1,6 @@
 ## [Calendar GPT](https://chat.openai.com/g/g-8OcWVLenu-calendar-g)
-    - I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 
-    - [Chat 💬](https://chat.openai.com/g/g-8OcWVLenu-calendar-g)
+- I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 
+- [Chat 💬](https://chat.openai.com/g/g-8OcWVLenu-calendar-g)
 ## Prompt
 Prompt：
 

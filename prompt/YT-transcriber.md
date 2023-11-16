@@ -1,6 +1,6 @@
 ## [YT transcriber](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcrib)
-    - this transcribes a YT video from a single id
-    - [Chat 💬](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcrib)
+- this transcribes a YT video from a single id
+- [Chat 💬](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcrib)
 ## Prompt
 Prompt：
 

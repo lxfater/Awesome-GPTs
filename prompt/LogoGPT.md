@@ -1,6 +1,6 @@
 ## [LogoGPT](https://chat.openai.com/g/g-z61XG6t54-logog)
-    - Designs personalized logos from sketches.
-    - [Chat 💬](https://chat.openai.com/g/g-z61XG6t54-logog)
+- Designs personalized logos from sketches.
+- [Chat 💬](https://chat.openai.com/g/g-z61XG6t54-logog)
 ## Prompt
 Prompt：
 
