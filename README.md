@@ -20,6 +20,8 @@ Awesome-GPTs
 - Real-time search
 - Open-source
 
+## Prompt
+### [genz 4 meme](https://github.com/lxfater/Awesome-GPTs/blob/main/prompt/genz-4-meme.md)
 
 [Chat 💬](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
 ## 📚 Table of Contents
