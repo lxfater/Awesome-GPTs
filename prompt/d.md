@@ -1,0 +1,1 @@
+[My excellent classmates (Help with my homework!)](https://github.com/lxfater/Awesome-GPTs/blob/main/prompt/My-excellent-classmates-(Help-with-my-homework!))
