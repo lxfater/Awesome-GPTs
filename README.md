@@ -599,6 +599,9 @@ Awesome-GPTs
 ### [NomadGPT](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)
  - NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.
  - [Chat 💬](https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt)
+### [Text My Pet](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
+ - Text your favorite pet after answering 10 short questions about their activities.
+ - [Chat 💬](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
 ## Language
 ### [Language Coach](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach)
  - Practice speaking another language like a local without being a local. By Watchovr LLC. Sign up to chat. Requires ChatGPT Plus.
