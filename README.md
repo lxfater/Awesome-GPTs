@@ -2379,3 +2379,6 @@ Awesome-GPTs
 ### [Bud Genius](https://chat.openai.com/g/g-1ZVC6bRB6-bud-genius)
  - Expert on cannabis strains, effects, and legal advice.
  - [Chat 💬](https://chat.openai.com/g/g-1ZVC6bRB6-bud-genius)
+### [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
+ - Perform 3rd party software security review.
+ - [Chat 💬](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
