@@ -2382,3 +2382,9 @@ Awesome-GPTs
 ### [3rd SoftSec Reviewer](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
  - Perform 3rd party software security review.
  - [Chat 💬](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
+### [Voca AI](https://chat.openai.com/g/g-GvpJPTBlS-voca-ai)
+ - Learn vocabulary with AI, stop rote memoization
+ - [Chat 💬](https://chat.openai.com/g/g-GvpJPTBlS-voca-ai)
+### [Coding Interview Helper](https://chat.openai.com/g/g-Q2JQJ8Ix6-coding-interview-helper)
+ - Send me the coding question description or LeetCode problem id, I will find the most matched LeetCode problem and its solution
+ - [Chat 💬](https://chat.openai.com/g/g-Q2JQJ8Ix6-coding-interview-helper)

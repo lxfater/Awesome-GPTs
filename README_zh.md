@@ -284,3 +284,9 @@ Awesome-GPTs
 ### [王阳明](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming)
  - GPT. 王阳明. 模拟王阳明的GPT。 By XINGYUECUI. Sign up to chat. Requires ChatGPT Plus.
  - [Chat 💬](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming)
+### [Voca AI](https://chat.openai.com/g/g-GvpJPTBlS-voca-ai)
+ - Learn vocabulary with AI, stop rote memoization
+ - [Chat 💬](https://chat.openai.com/g/g-GvpJPTBlS-voca-ai)
+### [Coding Interview Helper](https://chat.openai.com/g/g-Q2JQJ8Ix6-coding-interview-helper)
+ - Send me the coding question description or LeetCode problem id, I will find the most matched LeetCode problem and its solution
+ - [Chat 💬](https://chat.openai.com/g/g-Q2JQJ8Ix6-coding-interview-helper)
